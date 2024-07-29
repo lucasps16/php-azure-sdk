@@ -59,7 +59,7 @@ To get the source code from GitHub, type
 
 ```
 git clone https://github.com/vertexportus/php-azure-sdk.git
-cd ./azure-sdk-for-php
+cd ./php-azure-sdk
 ```
 
 > **Note**
@@ -735,23 +735,3 @@ Erase entities with methods like “deleteAsset”, “deleteAccessPolicy”, �
 Also you could get linked entities with methods “getAssetLocators”, “getAssetParentAssets”, “getAssetStorageAccount”, “getLocatorAccessPolicy”, “getJobTasks” and etc. passing the entity identifier or entity data model object with non-empty identifier as a parameter.
 
 The complete list of all methods available you could find in [IMediaServices](src/MediaServices/Internal/IMediaServices.php) interface.
-
-**For more examples please see the [Microsoft Azure PHP Developer Center](http://www.windowsazure.com/en-us/develop/php)**
-
-# Need Help?
-
-Be sure to check out the Microsoft Azure [Developer Forums on Stack Overflow](http://go.microsoft.com/fwlink/?LinkId=234489) if you have trouble with the provided code.
-
-# Contribute Code or Provide Feedback
-
-If you would like to become an active contributor to this project please follow the instructions provided in [Microsoft Azure Projects Contribution Guidelines](http://windowsazure.github.com/guidelines.html).
-
-To setup your development environment, follow the instructions in this [wiki page](https://github.com/Azure/azure-sdk-for-php/wiki/Devbox-installation-guide).
-
-If you encounter any bugs with the library please file an issue in the [Issues](https://github.com/Azure/azure-sdk-for-php/issues) section of the project.
-
-# Learn More
-[Microsoft Azure PHP Developer Center](http://www.windowsazure.com/en-us/develop/php/)
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
