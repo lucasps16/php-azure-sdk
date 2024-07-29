@@ -1,16 +1,16 @@
 {
-    "name": "microsoft/windowsazure",
+    "name": "vertexportus/php-azure-sdk",
     "description": "This project provides a set of PHP client libraries that make it easy to access Windows Azure tables, blobs, queues, service runtime and service management APIs.",
     "keywords": [ "php", "azure", "sdk" ],
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Azure PHP SDK",
-            "email": "azurephpsdk@microsoft.com"
+            "name": "Daniel Alves",
+            "email": "daniel.alves@portus.tech"
         }
     ],
     "require": {
-        "php": ">=5.6",
+        "php": ">=8.1",
         "pear/net_url2": "^2.2",
         "pear/mail_mime": "^1.10",
         "firebase/php-jwt": "^4.0 || ^5.0",
@@ -39,7 +39,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.4-dev"
+            "dev-main": "0.1-dev"
         }
     }
 }

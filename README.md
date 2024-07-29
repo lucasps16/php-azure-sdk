@@ -58,7 +58,7 @@ Microsoft archived the original Azure SDK for PHP repository. This repository is
 To get the source code from GitHub, type
 
 ```
-git clone https://github.com/Azure/azure-sdk-for-php.git
+git clone https://github.com/vertexportus/php-azure-sdk.git
 cd ./azure-sdk-for-php
 ```
 
