@@ -1,21 +1,11 @@
-[![Build Status](https://travis-ci.org/Azure/azure-sdk-for-php.svg?branch=master)](https://travis-ci.org/Azure/azure-sdk-for-php)
-[![Latest Stable Version](https://poser.pugx.org/microsoft/windowsazure/v/stable)](https://packagist.org/packages/microsoft/windowsazure)
-
-# Microsoft Azure SDK for PHP
+# Azure SDK for PHP
 
 This project provides a set of PHP client libraries that make it easy to access
-Microsoft Azure tables, blobs, queues, service bus (queues and topics), service runtime and service management APIs. For documentation on how to host PHP applications on Microsoft Azure, please see the
-[Microsoft Azure PHP Developer Center](http://www.windowsazure.com/en-us/develop/php/).
+Microsoft Azure tables, blobs, queues, service bus (queues and topics), service runtime and service management APIs.
 
-## Important Annoucement
+## Annoucement
 
-As of February 2021, the Azure SDK for PHP has entered a retirement phase and is no longer officially supported by Microsoft. This repository will no longer be maintained.  
-
-If you prefer to work in PHP, you can directly call the [Azure REST API in PHP](https://docs.microsoft.com/en-us/rest/api/azure/)
-
->NOTE: Please note that the Azure Storage SDK for PHP will be separately maintained in [its own repo](https://github.com/Azure/azure-storage-php)
-
-For more details, please refer to our [support policy here](SUPPORT.md) 
+Microsoft archived the original Azure SDK for PHP repository. This repository is a fork of the original repository and is maintained by the community. The original repository can be found [here](https://github.com/Azure/azure-sdk-for-php)
 
 # Features
 
