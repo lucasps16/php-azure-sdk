@@ -73,7 +73,7 @@ cd ./php-azure-sdk
   ```json
   {
       "require": {
-          "microsoft/windowsazure": "^0.5"
+          "vertexportus/php-azure-sdk": "^1.0"
       }
   }
   ```
